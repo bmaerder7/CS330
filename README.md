@@ -1,1 +1,8 @@
-# CS330
+# 1. Designing Software
+I approach designing software by focusing on user goals and translating them into clear, intuitive interfaces. This project helped me strengthen my skills in visual hierarchy, consistency, and reducing cognitive load by prioritizing essential information. I followed an iterative, user centered design process that began with user stories and requirements, moved through initial layouts, and progressed through refinement based on usability considerations. These design tactics can be applied to future work by ensuring that interfaces remain purposeful, easy to navigate, and aligned with real user needs rather than unnecessary features.
+
+# 2. Developing Programs
+I approach program development by breaking problems into smaller components and building functionality incrementally. While working on the 3D scene, I used modular code structure, experimentation with transformations and lighting, and frequent testing to understand how code affected visual output. Iteration played a major role, as I continuously adjusted and refined the scene based on visual results and performance. Over the course of the milestones, my coding approach evolved from exploratory experimentation to more structured, maintainable, and intentional development.
+
+# 3. Computer Science and My Goals
+Computer science helps me reach my goals by providing strong problem solving skills and the ability to create functional, user focused systems. Computational graphics and visualizations expanded my understanding of how mathematics, logic, and code combine to produce interactive visuals, supporting my future educational growth in technical and analytical areas. Professionally, these skills enable me to communicate complex ideas visually, contribute to UI/UX or visualization-focused projects, and apply technical creativity to real-world problems.
